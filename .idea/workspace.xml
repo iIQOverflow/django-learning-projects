@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="473beedc-57b6-4967-84cb-d40ebb56f578" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_web/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_web/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_web/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_web/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,8 +53,8 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
-          <entry key="html" value="10" />
-          <entry key="py" value="116" />
+          <entry key="html" value="11" />
+          <entry key="py" value="118" />
           <entry key="pyi" value="1" />
           <entry key="rnc" value="4" />
           <entry key="sql" value="2" />
@@ -61,8 +63,8 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="10" />
-          <entry key="Python" value="116" />
+          <entry key="HTML" value="11" />
+          <entry key="Python" value="118" />
           <entry key="PythonStub" value="1" />
           <entry key="RNG Compact" value="4" />
           <entry key="Scratch" value="2" />
@@ -72,7 +74,7 @@
         <counts>
           <entry key="CSS" value="24" />
           <entry key="HTML" value="2342" />
-          <entry key="Python" value="12234" />
+          <entry key="Python" value="12690" />
           <entry key="RNG Compact" value="3" />
         </counts>
       </usages-collector>
@@ -83,7 +85,7 @@
           <entry key="Django Console" value="365" />
           <entry key="css" value="24" />
           <entry key="html" value="2342" />
-          <entry key="py" value="11869" />
+          <entry key="py" value="12325" />
           <entry key="rnc" value="3" />
         </counts>
       </usages-collector>
@@ -92,22 +94,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/polls/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="87" column="4" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/polls/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="228">
+              <caret line="12" column="61" lean-forward="true" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,20 +108,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/django_web/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2451">
-              <caret line="129" column="16" lean-forward="true" selection-start-line="129" selection-start-column="16" selection-end-line="129" selection-end-column="16" />
+            <state relative-caret-position="95">
+              <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/polls/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/polls/models.py">
+        <entry file="file://$PROJECT_DIR$/django_web/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="381">
+              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#634#666#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/rest_framework/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1843">
+              <caret line="186" selection-start-line="186" selection-end-line="186" />
             </state>
           </provider>
         </entry>
@@ -160,36 +174,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/db/models/fields/files.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-526">
-              <caret line="356" column="6" selection-start-line="356" selection-start-column="6" selection-end-line="356" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/admin/base_site.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="73" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/polls/tests.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2337">
-              <caret line="129" selection-start-line="129" selection-end-line="129" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -206,10 +190,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/django_web/urls.py" />
         <option value="$PROJECT_DIR$/polls/migrations/0001_initial.py" />
         <option value="$PROJECT_DIR$/polls/polls/index.html" />
-        <option value="$PROJECT_DIR$/polls/urls.py" />
         <option value="$PROJECT_DIR$/polls/templates/polls/results.html" />
         <option value="$PROJECT_DIR$/polls/templates/polls/detail.html" />
         <option value="$PROJECT_DIR$/polls/tests.py" />
@@ -218,8 +200,10 @@
         <option value="$PROJECT_DIR$/polls/templates/polls/index.html" />
         <option value="$PROJECT_DIR$/polls/admin.py" />
         <option value="$PROJECT_DIR$/templates/admin/base_site.html" />
-        <option value="$PROJECT_DIR$/django_web/settings.py" />
         <option value="$PROJECT_DIR$/polls/models.py" />
+        <option value="$PROJECT_DIR$/django_web/settings.py" />
+        <option value="$PROJECT_DIR$/polls/urls.py" />
+        <option value="$PROJECT_DIR$/django_web/urls.py" />
       </list>
     </option>
   </component>
@@ -442,7 +426,7 @@
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1377" height="912" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2513168" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2513168" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -456,7 +440,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32904884" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003762" side_tool="true" weight="0.29434448" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49962378" visible="true" weight="0.2951031" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49962378" visible="true" weight="0.2951031" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32860824" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -472,9 +456,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/db/models/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/db/models/fields/related.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -618,13 +599,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polls/templates/polls/detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/views/generic/detail.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -708,16 +682,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django_web/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-          <folding>
-            <element signature="e#634#666#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/polls/tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2337">
@@ -735,27 +699,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polls/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="87" column="4" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/db/models/fields/files.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-526">
           <caret line="356" column="6" selection-start-line="356" selection-start-column="6" selection-end-line="356" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/polls/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -780,19 +727,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django_web/settings.py">
+    <entry file="file://$PROJECT_DIR$/polls/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2451">
-          <caret line="129" column="16" lean-forward="true" selection-start-line="129" selection-start-column="16" selection-end-line="129" selection-end-column="16" />
+        <state relative-caret-position="456">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polls/models.py">
+    <entry file="file://$PROJECT_DIR$/polls/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="310">
+          <caret line="97" column="18" selection-start-line="97" selection-start-column="18" selection-end-line="97" selection-end-column="18" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/templates/polls/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/rest_framework/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1843">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_web/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="61" lean-forward="true" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_web/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="e#634#666#0" expanded="true" />
           </folding>
         </state>
       </provider>
