@@ -1,12 +1,407 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/snippets/models.py" line="20" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="473beedc-57b6-4967-84cb-d40ebb56f578" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/polls/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/chardetect" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/pygmentize" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Pygments-2.3.0.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Pygments-2.3.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Pygments-2.3.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Pygments-2.3.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Pygments-2.3.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Pygments-2.3.0.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Pygments-2.3.0.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Pygments-2.3.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/certifi-2018.10.15.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/certifi-2018.10.15.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/certifi-2018.10.15.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/certifi-2018.10.15.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/certifi-2018.10.15.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/certifi-2018.10.15.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/certifi-2018.10.15.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/certifi-2018.10.15.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/certifi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/certifi/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/certifi/cacert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/certifi/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet-3.0.4.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet-3.0.4.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet-3.0.4.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet-3.0.4.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet-3.0.4.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet-3.0.4.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet-3.0.4.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet-3.0.4.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/big5freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/big5prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/chardistribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/charsetgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/charsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/cli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/cli/chardetect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/codingstatemachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/cp949prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/enums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/escprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/escsm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/eucjpprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/euckrfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/euckrprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/euctwfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/euctwprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/gb2312freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/gb2312prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/hebrewprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/jisfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/jpcntx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/langbulgarianmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/langcyrillicmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/langgreekmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/langhebrewmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/langhungarianmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/langthaimodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/langturkishmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/latin1prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/mbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/mbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/mbcssm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/sbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/sbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/sjisprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/universaldetector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/utf8prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/chardet/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie-1.0.2.dist-info/AUTHORS.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie-1.0.2.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie-1.0.2.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie-1.0.2.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie-1.0.2.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie-1.0.2.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie-1.0.2.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie-1.0.2.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/cli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/context.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/downloads.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/output/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/output/formatters/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/output/formatters/colors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/output/formatters/headers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/output/formatters/json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/output/processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/output/streams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/plugins/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/plugins/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/plugins/builtin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/plugins/manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/sessions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/httpie/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/idna-2.7.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/idna-2.7.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/idna-2.7.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/idna-2.7.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/idna-2.7.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/idna-2.7.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/idna/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/idna/codec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/idna/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/idna/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/idna/idnadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/idna/intranges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/idna/package_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/idna/uts46data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/cmdline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/console.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/filters/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/formatter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/formatters/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/formatters/_mapping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/formatters/bbcode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/formatters/html.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/formatters/img.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/formatters/irc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/formatters/latex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/formatters/other.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/formatters/rtf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/formatters/svg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/formatters/terminal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/formatters/terminal256.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/_asy_builtins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/_cl_builtins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/_cocoa_builtins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/_csound_builtins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/_lasso_builtins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/_lua_builtins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/_mapping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/_mql_builtins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/_openedge_builtins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/_php_builtins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/_postgres_builtins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/_scilab_builtins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/_sourcemod_builtins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/_stan_builtins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/_stata_builtins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/_tsql_builtins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/_vim_builtins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/actionscript.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/agile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/algebra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/ambient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/ampl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/apl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/archetype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/asm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/automation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/bibtex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/business.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/c_cpp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/c_like.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/capnproto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/chapel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/clean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/compiled.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/configs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/console.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/crystal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/csound.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/css.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/dalvik.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/diff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/dotnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/dsls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/dylan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/ecl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/eiffel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/elm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/erlang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/esoteric.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/ezhil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/factor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/fantom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/felix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/forth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/fortran.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/foxpro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/functional.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/go.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/grammar_notation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/graphics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/haskell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/haxe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/hdl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/hexdump.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/html.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/idl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/igor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/inferno.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/installers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/int_fiction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/iolang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/j.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/javascript.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/julia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/jvm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/lisp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/make.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/markup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/matlab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/ml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/modeling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/modula2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/monte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/ncl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/nimrod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/nit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/nix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/oberon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/objective.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/ooc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/other.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/parasail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/parsers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/pascal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/pawn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/perl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/php.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/praat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/prolog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/qvt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/r.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/rdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/rebol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/resource.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/rnc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/roboconf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/robotframework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/ruby.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/rust.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/sas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/scripting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/shell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/smalltalk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/smv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/snobol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/special.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/sql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/stata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/supercollider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/tcl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/templates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/textedit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/textfmts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/theorem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/trafficscript.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/typoscript.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/urbi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/varnish.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/verification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/web.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/webmisc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/whiley.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/x10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/lexers/xorg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/modeline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/plugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/regexopt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/scanner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/sphinxext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/style.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/abap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/algol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/algol_nu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/arduino.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/autumn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/borland.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/bw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/colorful.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/default.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/emacs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/friendly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/fruity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/igor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/lovelace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/manni.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/monokai.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/murphy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/native.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/paraiso_dark.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/paraiso_light.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/pastie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/perldoc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/rainbow_dash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/rrt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/sas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/stata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/tango.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/trac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/vim.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/vs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/styles/xcode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/token.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/unistring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pygments/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests-2.20.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests-2.20.1.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests-2.20.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests-2.20.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests-2.20.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests-2.20.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests/__version__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests/_internal_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests/adapters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests/certs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests/cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests/hooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests/packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests/sessions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests/status_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests/structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3-1.24.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3-1.24.1.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3-1.24.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3-1.24.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3-1.24.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3-1.24.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/_collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/connectionpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/contrib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/contrib/_appengine_environ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/contrib/_securetransport/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/contrib/_securetransport/bindings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/contrib/_securetransport/low_level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/contrib/appengine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/contrib/ntlmpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/contrib/pyopenssl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/contrib/securetransport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/contrib/socks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/filepost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/packages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/packages/backports/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/packages/backports/makefile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/packages/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/packages/ssl_match_hostname/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/packages/ssl_match_hostname/_implementation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/poolmanager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/util/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/util/queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/util/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/util/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/util/retry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/util/ssl_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/util/timeout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/util/url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/util/wait.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_web/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_web/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_web/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_web/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +451,7 @@
         <counts>
           <entry key="css" value="1" />
           <entry key="html" value="11" />
-          <entry key="py" value="125" />
+          <entry key="py" value="133" />
           <entry key="pyi" value="1" />
           <entry key="rnc" value="4" />
           <entry key="sql" value="2" />
@@ -66,7 +461,7 @@
         <counts>
           <entry key="CSS" value="1" />
           <entry key="HTML" value="11" />
-          <entry key="Python" value="125" />
+          <entry key="Python" value="133" />
           <entry key="PythonStub" value="1" />
           <entry key="RNG Compact" value="4" />
           <entry key="Scratch" value="2" />
@@ -76,7 +471,7 @@
         <counts>
           <entry key="CSS" value="24" />
           <entry key="HTML" value="2342" />
-          <entry key="Python" value="13488" />
+          <entry key="Python" value="14052" />
           <entry key="RNG Compact" value="3" />
         </counts>
       </usages-collector>
@@ -87,7 +482,7 @@
           <entry key="Django Console" value="365" />
           <entry key="css" value="24" />
           <entry key="html" value="2342" />
-          <entry key="py" value="13123" />
+          <entry key="py" value="13687" />
           <entry key="rnc" value="3" />
         </counts>
       </usages-collector>
@@ -110,20 +505,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/django_web/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="138" column="6" lean-forward="true" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/polls/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="139">
+              <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -144,7 +527,7 @@
         <entry file="file://$PROJECT_DIR$/polls/serializers.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
               </folding>
@@ -200,6 +583,7 @@
         <option value="$PROJECT_DIR$/polls/serializers.py" />
         <option value="$PROJECT_DIR$/polls/views.py" />
         <option value="$PROJECT_DIR$/django_web/urls.py" />
+        <option value="$PROJECT_DIR$/snippets/models.py" />
         <option value="$PROJECT_DIR$/django_web/settings.py" />
       </list>
     </option>
@@ -237,18 +621,7 @@
             <path>
               <item name="django_web" type="b2602c69:ProjectViewProjectNode" />
               <item name="django_web" type="462c0819:PsiDirectoryNode" />
-              <item name="polls" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="django_web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="django_web" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="django_web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="django_web" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="snippets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -440,28 +813,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/admin/sites.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="84" column="8" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/functools.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/polls/polls/index.html" />
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/template/backends/dummy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -604,9 +955,6 @@
     <entry file="file://$PROJECT_DIR$/django_web/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/polls/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/admin/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -621,13 +969,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/polls/migrations/0001_initial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -690,16 +1031,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polls/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/auth/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-226">
@@ -731,7 +1062,7 @@
     <entry file="file://$PROJECT_DIR$/polls/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
           </folding>
@@ -748,16 +1079,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polls/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/django_web/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -768,10 +1089,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/polls/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-113">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/importlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/django_web/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="138" column="6" lean-forward="true" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="6" />
+        <state relative-caret-position="139">
+          <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
         </state>
       </provider>
     </entry>
